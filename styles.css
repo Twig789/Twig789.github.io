@@ -1,0 +1,49 @@
+/* Stylesheet for elements on homepage*/
+
+.images{
+    border: 3px solid black;
+}
+
+div{
+    border: 5px solid black:
+}
+
+body{
+    background-color: DarkSlateGray;
+    color: MintCream;
+}
+
+a{
+    color: MintCream;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#break3{
+    visibility: hidden;
+}
+
+.card{
+    background-color: burlywood;
+}
+
+/* Learned how to style text here: https://www.w3schools.com/css/css_text.asp */
+
+#XCski, #Running, #Archery{
+    padding: 20px 20px 20px 20px;
+    text-shadow: 2px 2px black;
+    font-size: 25px;
+
+}
+
+
+
+
+
+
